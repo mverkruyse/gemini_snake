@@ -18,7 +18,7 @@ A hyper-realistic Snake game clone with unique twists, built with Pygame. Featur
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/mverkruyse/gemini_snake.git
     cd bioluminescent-snake
     ```
 2.  **Create a virtual environment (recommended):**
